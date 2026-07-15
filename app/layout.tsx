@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://yourleila.com"),
   title: "@your_leila_",
   description:
-    "Chat with Leila 24/7 on Fanvue. Exclusive content and direct messages — plus links to all her socials.",
+    "Chat with Leila 24/7 on Fanvue. Exclusive content and direct messages.",
   openGraph: {
     title: "@your_leila_",
     description:
